@@ -20,6 +20,10 @@ or other resources that are related to Jujutsu.
 
 * ["JJ Con 2025" playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh)
 
+## Tools
+
+* [jjui](https://github.com/idursun/jjui) -- TUI for jj
+
 ## Contributing
 
 Contributions are welcome!
