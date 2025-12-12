@@ -22,9 +22,9 @@ or other resources that are related to Jujutsu.
 
 ## Tools
 
-* [gg](https://github.com/gulbanana/gg) -- GUI for jj
-* [jjui](https://github.com/idursun/jjui) -- TUI for jj
-* [lazyjj](https://github.com/Cretezy/lazyjj) -- TUI for jj
+* [gg](https://github.com/gulbanana/gg): GUI for jj
+* [jjui](https://github.com/idursun/jjui): TUI for jj
+* [lazyjj](https://github.com/Cretezy/lazyjj): TUI for jj
 
 ## Contributing
 
