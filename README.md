@@ -11,6 +11,7 @@ or other resources that are related to Jujutsu.
 * [Steve Klabnik's tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 * ["Jujutsu For Busy Devs"](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
 * ["Jujutsu for everyone"](https://jj-for-everyone.github.io/)
+* ["Jujutsu VCS Introduction and Patterns"](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 
 ## Posts about Jujutsu
 
