@@ -23,6 +23,7 @@ or other resources that are related to Jujutsu.
 ## Tools
 
 * [jjui](https://github.com/idursun/jjui) -- TUI for jj
+* [lazyjj](https://github.com/Cretezy/lazyjj) -- TUI for jj
 
 ## Contributing
 
