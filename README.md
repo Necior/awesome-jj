@@ -16,6 +16,7 @@ or other resources that are related to Jujutsu.
 
 * ["why i think jj-vcs is worth your time"](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
 * ["I see a future in jj"](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
+* ["jj init"](https://v5.chriskrycho.com/essays/jj-init)
 
 ## Videos about Jujutsu
 
