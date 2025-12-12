@@ -25,6 +25,8 @@ or other resources that are related to Jujutsu.
 * [gg](https://github.com/gulbanana/gg): GUI for jj
 * [jjui](https://github.com/idursun/jjui): TUI for jj
 * [lazyjj](https://github.com/Cretezy/lazyjj): TUI for jj
+* [Selvejj](https://plugins.jetbrains.com/plugin/28081-selvejj): jj integration
+  into JetBrains IDEs
 
 ## Contributing
 
