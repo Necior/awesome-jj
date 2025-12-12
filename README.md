@@ -9,3 +9,8 @@ or other resources that are related to Jujutsu.
 
 * [Official tutorial](https://martinvonz.github.io/jj/latest/tutorial/)
 * [Steve Klabnik's tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
+
+## Posts about Jujutsu
+
+* ["why i think jj-vcs is worth your time"](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
+* ["I see a future in jj"](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
