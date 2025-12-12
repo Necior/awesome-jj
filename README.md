@@ -7,7 +7,7 @@ or other resources that are related to Jujutsu.
 
 ## Tutorials
 
-* [Official tutorial](https://martinvonz.github.io/jj/latest/tutorial/)
+* [Official tutorial](https://docs.jj-vcs.dev/latest/tutorial/)
 * [Steve Klabnik's tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 * ["Jujutsu For Busy Devs"](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
 
