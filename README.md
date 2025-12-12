@@ -32,6 +32,11 @@ or other resources that are related to Jujutsu.
 * [Selvejj](https://plugins.jetbrains.com/plugin/28081-selvejj): jj integration
   into JetBrains IDEs
 
+## Communities
+
+* IRC: \#jujutsu on Libera Chat
+* [Discord](https://discord.gg/dkmfj3aGQN)
+
 ## Contributing
 
 Contributions are welcome!
