@@ -35,6 +35,17 @@ or other resources that are related to Jujutsu.
 * [Selvejj](https://plugins.jetbrains.com/plugin/28081-selvejj): jj integration
   into JetBrains IDEs
 
+## Forge support
+
+Jujutsu, being a Git-compatible version control system, doesn't require special
+forge support.
+
+That said, Jujutsu puts a header called `change-id` in Git commit headers. This
+enables different (arguably better) code review workflow, when supported by the
+forge. The following forges support `change-id`:
+
+* [tangled](https://tangled.org/) ([announcement](https://blog.tangled.org/stacking))
+
 ## Communities
 
 * IRC: \#jujutsu on Libera Chat
