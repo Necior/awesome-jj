@@ -20,6 +20,8 @@ or other resources that are related to Jujutsu.
 * ["why i think jj-vcs is worth your time"](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
 * ["I see a future in jj"](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * ["jj init"](https://v5.chriskrycho.com/essays/jj-init)
+* ["Jujutsu Megamerges and `jj absorb`"](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
+* ["Configuring Jujutsu"](https://oppi.li/posts/configuring_jujutsu/)
 
 ## Videos about Jujutsu
 
