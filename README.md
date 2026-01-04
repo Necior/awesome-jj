@@ -35,6 +35,10 @@ or other resources that are related to Jujutsu.
 * [Selvejj](https://plugins.jetbrains.com/plugin/28081-selvejj): jj integration
   into JetBrains IDEs
 
+## Websites
+
+* [List of popular Jujutsu aliases](https://www.lysator.liu.se/~axl/jj-aliases/)
+
 ## Forge support
 
 Jujutsu, being a Git-compatible version control system, doesn't require special
