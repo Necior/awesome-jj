@@ -22,6 +22,7 @@ or other resources that are related to Jujutsu.
 * ["jj init"](https://v5.chriskrycho.com/essays/jj-init)
 * ["Jujutsu Megamerges and `jj absorb`"](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * ["Configuring Jujutsu"](https://oppi.li/posts/configuring_jujutsu/)
+* ["jj-tips-and-tricks"](https://zerowidth.com/2025/jj-tips-and-tricks/)
 
 ## Videos about Jujutsu
 
