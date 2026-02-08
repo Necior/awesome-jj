@@ -27,6 +27,7 @@ or other resources that are related to Jujutsu.
 
 * ["JJ Con 2025" playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh)
 * ["Jujutsu Megamerges & Git History Preview"](https://www.youtube.com/watch?v=PsiXflgIC8Q) @ GitButler
+* ["Hands-on Introduction to jujutsu (jj) | Rawkode Live"](https://www.youtube.com/watch?v=bECcod9ZMl0)
 
 ## Tools
 
