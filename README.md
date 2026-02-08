@@ -29,6 +29,7 @@ or other resources that are related to Jujutsu.
 * ["Jujutsu Megamerges & Git History Preview"](https://www.youtube.com/watch?v=PsiXflgIC8Q) @ GitButler
 * ["Hands-on Introduction to jujutsu (jj) | Rawkode Live"](https://www.youtube.com/watch?v=bECcod9ZMl0&t=97)
 * ["Jujutsu Version Control Explained by Brian Will"](https://www.youtube.com/watch?v=mM4nrhDenC8)
+* ["Solving Git's Pain Points with Jujutsu (with Martin von Zweigbergk)"](https://www.youtube.com/watch?v=ulJ_Pw8qqsE)
 
 ## Tools
 
