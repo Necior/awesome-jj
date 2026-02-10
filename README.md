@@ -41,6 +41,11 @@ or other resources that are related to Jujutsu.
 * [Selvejj](https://plugins.jetbrains.com/plugin/28081-selvejj): jj integration
   into JetBrains IDEs
 
+## AI Tools
+
+* [jujutsu-skill](https://github.com/danverbraganza/jujutsu-skill): jj skill files for agents that
+  support skills
+
 ## Websites
 
 * [List of popular Jujutsu aliases](https://www.lysator.liu.se/~axl/jj-aliases/)
